@@ -1,7 +1,7 @@
 const axios = require("axios");
 const FormData = require("form-data");
 
-const IMGBB_API_KEY = "22f062007b2a03f7923f9e44558314b3";
+const IMGBB_API_KEY = "a0bcf5603cef298e99236e6f0bab90b2";
 
 module.exports = {
   config: {
